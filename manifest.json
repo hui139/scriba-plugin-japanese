@@ -1,11 +1,11 @@
 {
   "id": "japanese",
-  "name": "Japanese (日本語)",
-  "version": "1.0.0",
-  "description": "日本語インターフェース for Scriba",
+  "name": "日本語",
+  "version": "1.0.1",
+  "description": "Scriba のインターフェースを日本語にするプラグイン",
   "author": "Scriba Contributors",
   "license": "MIT",
-  "homepage": "https://github.com/scriba-editor/scriba-plugin-japanese",
+  "homepage": "https://github.com/hui139/scriba-plugin-japanese",
   "main": "index.js",
   "minAppVersion": "0.1.0",
   "keywords": ["i18n", "japanese", "language", "localization"]
