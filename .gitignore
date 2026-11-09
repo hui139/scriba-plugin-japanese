@@ -1,0 +1,17 @@
+# Dependencies (a plugin has none, but keep this for safety)
+node_modules/
+
+# Build output
+dist/
+out/
+
+# Editor and OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
